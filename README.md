@@ -1,4 +1,4 @@
-# ✨ AI Coding Assistant
+# AI Coding Assistant
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
@@ -67,7 +67,7 @@ Follow these instructions to set up and run the project locally.
     GOOGLE_API_KEY="AIzaSy...your_secret_api_key..."
     ```
 
-## ▶️ Running the Application
+## Running the Application
 
 This project requires two terminals to run simultaneously.
 
@@ -85,6 +85,6 @@ This project requires two terminals to run simultaneously.
     ```
     * The application will open in your browser at `http://localhost:8501`.
 
-## 🏗️ Architecture
+## Architecture
 
 The application uses a simple and robust client-server architecture:
