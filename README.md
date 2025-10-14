@@ -6,9 +6,6 @@
 
 An advanced AI-powered assistant designed to provide expert-level code reviews, optimizations, and conversational debugging to help developers write better code, faster.
 
-![App Screenshot](https://i.imgur.com/your-screenshot-url.png)
-*Replace the URL above with a link to a screenshot of your application's professional UI.*
-
 ---
 
 ##  Features
