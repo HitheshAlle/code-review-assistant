@@ -1,0 +1,14 @@
+# For the backend API
+fastapi
+uvicorn[standard]
+pydantic
+
+# For the frontend dashboard
+streamlit
+requests
+
+# For connecting to the LLM and managing keys
+google-generativeai
+python-dotenv
+
+python-multipart
